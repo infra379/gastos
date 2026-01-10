@@ -8,7 +8,7 @@ Data,Categoria,Descricao,Valor,Tipo
 2026-01-05,Alimentação,BH (Dez),91.66,Despesa
 2026-01-05,Alimentação,Topo Frio (Dez),22.72,Despesa
 2026-01-05,Contas Fixas,Bradesco (Dez),321.00,Despesa
-2026-01-05,Contas Fixas,Itau (Dez),1000.00,Despesa
+2026-01-05,Contas Fixas,Itau (Dez),1534.14,Despesa
 2026-01-05,Contas Fixas,will (Dez),458.00,Despesa
 2026-01-05,Contas Fixas,Neon (Dez),166.00,Despesa
 2026-01-05,Contas Fixas,Players (Dez),118.11,Despesa
@@ -30,15 +30,14 @@ Data,Categoria,Descricao,Valor,Tipo
 2026-01-05,Lazer,Compras Rua Kyara (Dez),14.97,Despesa
 2026-01-05,Lazer,Calça Otavio (Dez),87.50,Despesa
 2026-01-05,Lazer,Roupa KIKI (Dez),45.00,Despesa
-2026-01-05,Saúde,Remedio (Dez),200.00,Despesa
 2026-02-05,Alimentação,Comida rua,30.5,Despesa
 2026-02-05,Salário,Salário Mensal,3800.0,Receita
 2026-02-05,Benefícios,Vale Alimentação,350.0,Receita
-2026-02-05,Contas Fixas,Bradesco (Jan),184.28,Despesa
-2026-02-05,Contas Fixas,Itau (Jan),801.81,Despesa
-2026-02-05,Contas Fixas,will (Jan),400.00,Despesa
+2026-02-05,Contas Fixas,Bradesco (Jan),206.05,Despesa
+2026-02-05,Contas Fixas,Itau (Jan),1007.05,Despesa
+2026-02-05,Contas Fixas,will (Jan),468.11,Despesa
 2026-02-05,Contas Fixas,Neon (Jan),166.87,Despesa
-2026-02-05,Contas Fixas,Players (Jan),120.00,Despesa
+2026-02-05,Contas Fixas,Players (Jan),120.66,Despesa
 2026-02-05,Contas Fixas,Edmil (Jan),251.00,Despesa
 2026-02-05,Contas Fixas,Edmil Celular (Jan),169.23,Despesa
 2026-02-05,Contas Fixas,Celular Plano (Jan),33.00,Despesa
@@ -46,18 +45,6 @@ Data,Categoria,Descricao,Valor,Tipo
 2026-02-05,Moradia,Internet (Jan),135.00,Despesa
 2026-02-05,Lazer,Açai (Jan),45.00,Despesa
 2026-02-05,Empréstimos,Moto (Jan),730.00,Despesa
-2026-03-05,Salário,Salário Mensal,3800.0,Receita
-2026-03-05,Benefícios,Vale Alimentação,350.0,Receita
-2026-03-05,Contas Fixas,Bradesco (Mar),184.28,Despesa
-2026-03-05,Contas Fixas,Itau (Mar),34.18,Despesa
-2026-03-05,Contas Fixas,will (Mar),468.00,Despesa
-2026-03-05,Contas Fixas,Neon (Mar),140.00,Despesa
-2026-03-05,Contas Fixas,Players (Mar),120.66,Despesa
-2026-03-05,Contas Fixas,Edmil (Mar),251.00,Despesa
-2026-03-05,Contas Fixas,Edmil Celular (Mar),169.23,Despesa
-2026-03-05,Contas Fixas,Celular Plano (Mar),33.00,Despesa
-2026-03-05,Moradia,Internet (Mar),135.00,Despesa
-2026-03-05,Moradia,Luz (Mar),250.00,Despesa
-2026-03-05,Empréstimos,Moto (Mar),730.00,Despesa
-2026-03-05,Alimentação,Compra Mes (Mar),1000.00,Despesa
-
+2026-02-05,Lazer,Açai,45.00,Despesa
+2026-02-05,Remédios,"Duloxetina, Sertralina",115.99,Despesa
+2026-02-05,Alimentação,Compras MartMinas,370.53,Despesa
