@@ -32,17 +32,15 @@ Data,Categoria,Descricao,Valor,Tipo
 2026-01-05,Lazer,Roupa KIKI (Dez),45.00,Despesa
 2026-02-05,Alimentação,Comida rua,30.5,Despesa
 2026-02-05,Salário,Salário Mensal,3800.0,Receita
-2026-02-05,Benefícios,Vale Alimentação,350.0,Receita
 2026-02-05,Contas Fixas,Bradesco (Jan),206.05,Despesa
 2026-02-05,Contas Fixas,Itau (Jan),1007.05,Despesa
-2026-02-05,Contas Fixas,will (Jan),468.11,Despesa
 2026-02-05,Contas Fixas,Neon (Jan),166.87,Despesa
 2026-02-05,Contas Fixas,Players (Jan),120.66,Despesa
 2026-02-05,Contas Fixas,Edmil (Jan),251.00,Despesa
 2026-02-05,Contas Fixas,Edmil Celular (Jan),169.23,Despesa
 2026-02-05,Contas Fixas,Celular Plano (Jan),33.00,Despesa
-2026-02-05,Moradia,Luz (Jan),250.00,Despesa
-2026-02-05,Moradia,Internet (Jan),135.00,Despesa
+2026-02-05,Moradia,Luz (Jan),205.81,Despesa
+2026-02-05,Moradia,Internet (Jan),139.00,Despesa
 2026-02-05,Lazer,Açai (Jan),45.00,Despesa
 2026-02-05,Empréstimos,Moto (Jan),730.00,Despesa
 2026-02-05,Lazer,Açai,45.00,Despesa
@@ -51,3 +49,7 @@ Data,Categoria,Descricao,Valor,Tipo
 2026-02-05,Alimentação,Compras MartMinas,34.63,Despesa
 2026-02-05,Alimentação,Compras MartMinas,19.67,Despesa
 2026-02-05,Benefícios,Roku TV,300.00,Receita
+2026-02-05,Lazer,Perca de 100 reais,100.00,Despesa
+2026-02-05,Manutenção Moto,Pneu ,46.42,Despesa
+2026-02-05,Manutenção Moto,Troca de Pneu,80.00,Despesa
+2026-02-05,Combustivel,Gasolina,30.00,Despesa
